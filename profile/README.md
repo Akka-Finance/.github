@@ -1,13 +1,13 @@
-# Akka Finance
+# 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://akka.finance/_next/static/media/lightlogo2.21fd173f.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://akka.finance/_next/static/media/akka-colorfull1.7b8f2180.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akka-Finance/resources/blob/main/images/akka-light.png">
+  <img width="400px" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Akka-Finance/resources/blob/main/images/akka-colorful.svg">
 </picture>
-<!--   ![alt text](https://akka.finance/_next/static/media/lightlogo2.21fd173f.png#gh-dark-mode-only?imwidth=256)
-  ![alt text](https://akka.finance/_next/static/media/akka-colorfull1.7b8f2180.svg?imwidth=96#gh-light-mode-only?imwidth=256) -->
+<img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Akka-Finance/resources/blob/main/images/whatisakka.png">
 
-**Akka** is One-click Any-to-any Cross-chain
+## What is Akka Finance
+**Akka Finance** is One-click Any-to-any Cross-chain
 Swap with the Best Rates
 
 ## Features

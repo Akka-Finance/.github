@@ -2,7 +2,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akka-Finance/resources/blob/main/images/akka-light.png">
-  <img width="400px" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Akka-Finance/resources/blob/main/images/akka-colorful.svg">
 </picture>
 <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Akka-Finance/resources/blob/main/images/whatisakka.png">
 
